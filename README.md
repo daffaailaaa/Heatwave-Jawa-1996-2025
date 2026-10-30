@@ -1,3 +1,6 @@
+Author: Daffa Thufailah
+Universitas Hasanuddin
+
 Untuk mendapatkan hasil seperti yang ada pada "Analisis Spasial-Temporal Gelombang Panas dan Stres Termal Berbasis Tmax dan UTCI di Jawa Periode 1996–2025” 
 
 disarankan untuk mengikuti urutan pengolahan yang telah disusun agar setiap tahapan analisis dapat berjalan dengan baik.
